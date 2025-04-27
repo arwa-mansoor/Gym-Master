@@ -50,8 +50,8 @@ Here are a few screenshots from the Gym Management System:
 
 - **Facilities Page**
 
-![image](https://github.com/user-attachments/assets/6545895c-2a36-43d0-8385-3916be17f0a1)
-  
+![image](https://github.com/user-attachments/assets/32a24919-46c0-410a-9cfd-64898bad1476)
+
 - **Packages Page**
 
 ![image](https://github.com/user-attachments/assets/36ac4577-8ae1-4a4b-966b-ec63dd5bf8fd)
@@ -95,4 +95,4 @@ We greatly appreciate any feedback or suggestions you may have! Your input helps
 
 - **Open an issue** in the GitHub repository
 - **Create a pull request** for any improvements or bug fixes you would like to contribute
-- **Reach out directly** via [email](mailto:arwa.mansoor.khi@gmail.com) or [contact No.](#+92 3361214252) if you prefer a more direct communication channel
+- **Reach out directly** via [email](mailto:arwa.mansoor.khi@gmail.com) if you prefer a more direct communication channel
